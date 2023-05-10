@@ -7,6 +7,9 @@ body {
 h1 {
     text-align: center;
 }
+small {
+    margin-left: 3em;
+}
 a {
     color: red;
     margin-left: 20rem;
