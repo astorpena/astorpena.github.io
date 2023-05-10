@@ -7,10 +7,13 @@ body {
 h1 {
     text-align: center;
 }
-small {
-    margin-left: 3em;
-}
 a {
     color: red;
-    margin-left: 20rem;
+    margin-left: 20em;
+}
+small > a {
+    margin-left: 0em;
+}
+a.dl-alt {
+    margin-left: 0em;
 }
