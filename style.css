@@ -11,9 +11,7 @@ a {
     color: red;
     margin-left: 20em;
 }
-small > a {
-    margin-left: 0em;
-}
 a.dl-alt {
-    margin-left: 0em;
+    margin-left: 2em;
+    font-size: 0.8em;
 }
